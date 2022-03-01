@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641604555 source:c:\users\user\desktop\system_program\system_program_final_project\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<string>
+	<sstream>
+	<cstdio>
+	<iomanip>
+
